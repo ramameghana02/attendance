@@ -1,6 +1,3 @@
-#Name: SIMRAN ANAND
-#Reg Number: 19BCD7243
-#Role: Data Scientist
 
 # Build a recommendation engine that recommends movies to users.
 # Item Based Collaborative Filter recommendation system
